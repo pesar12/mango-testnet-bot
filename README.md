@@ -1,11 +1,11 @@
 ## MANGO TESTNET BOT
 
-**Register** : [HERE](https://task.testnet.mangonetwork.io/?invite=NBJutF)
+**Register** : [HERE](https://task.testnet.mangonetwork.io/?invite=5i25B3)
 
 - [Download Mango Wallet Extension](https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd)
 - Backup Phrase
 - Claim Faucet on your Wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=tVB90U) 
+- Go To [Web](https://task.testnet.mangonetwork.io/?invite=5i25B3) 
 - Complete Bind Social Media Accounts and JOIN NOW
 - Go to [Event Page](https://task.testnet.mangonetwork.io/events)
 - Complete Task on the Task List ( Swap , Bridge )
@@ -37,7 +37,7 @@
 
 1. Clone project repository
    ```
-   git clone https://github.com/Rambeboy/mango-testnet-bot.git && cd mango-testnet-bot
+   git clone https://github.com/pesar12/mango-testnet-bot.git && cd mango-testnet-bot
    ```
 2. Install Dependencies and Setup Accounts
    ```
@@ -65,7 +65,7 @@
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repository
    ```
-   git clone https://github.com/Rambeboy/mango-testnet-bot.git
+   git clone https://github.com/pesar12/mango-testnet-bot.git
    ```
    and cd to project dir
    ```
